@@ -24,7 +24,7 @@
 </a>
 
 
-### Резюме
+### Мое резюме
 
 <a href="https://drive.google.com/file/d/1Wf6yF_CjdCsjNXLE7vseX4-AeBFVDBLc/view?usp=sharing">
 <img src="https://github.com/ArtemNovosel/ArtemNovosel/blob/master/logo/unnamed.png" alt="Charles" width="50" height="50" />
@@ -37,3 +37,5 @@
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-011d2f?style=for-the-badge&logo=LinkedIn&logoColor=007BB6)](https://www.linkedin.com/in/artem-novoselov-6a9806262/)
 [![vkontakte](https://img.shields.io/badge/-vkontakte-011d2f?style=for-the-badge&logo=Vk&logoColor=4F7DB3)](https://vk.com/arteimn)
 [![mail](https://img.shields.io/badge/-mail.ru-011d2f?style=for-the-badge&logo=mail.ru&logoColor=ff9e00)](mailto:arteimn@mail.ru)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ArtemNovosel&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
