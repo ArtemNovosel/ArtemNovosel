@@ -1,6 +1,8 @@
 [![Header](https://github.com/ArtemNovosel/ArtemNovosel/blob/master/assets/abstrakcija(13)-1228x662.png)](https://github.com/ArtemNovosel)
 
-👋 Привет! Меня зовут Артем. / Hi! My name is Artem.
+### 👋 Привет! Меня зовут Артем. / Hello! I`m Artem.
+
+На данный момент нахожусь в поиске работы на позицию Junior QA Engineer / I looking for a job as a Junior QA Engineer 
 
 ### Инструменты и технологии которые я использую
 
@@ -27,7 +29,7 @@
 ### Мое резюме
 
 <a href="https://drive.google.com/file/d/1Wf6yF_CjdCsjNXLE7vseX4-AeBFVDBLc/view?usp=sharing">
-<img src="https://github.com/ArtemNovosel/ArtemNovosel/blob/master/logo/unnamed.png" alt="Charles" width="50" height="50" />
+<img src="https://github.com/ArtemNovosel/ArtemNovosel/blob/master/logo/unnamed.png" alt="Charles" width="100" height="100" />
 </a>
 
 ### Связаться со мной
