@@ -20,7 +20,7 @@
 <img src="https://github.com/ArtemNovosel/ArtemNovosel/blob/master/logo/GitHub-logo.png" alt="Python" width="50" height="50" />
 </a>
 <a href="https://www.charlesproxy.com/">
-<img src="https://abload.de/img/charleshojaw.png" alt="Charles" width="50" height="50" />
+<img src="https://github.com/ArtemNovosel/ArtemNovosel/blob/master/logo/charles.png" width="50" height="50" />
 </a>
 
 
