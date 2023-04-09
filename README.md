@@ -1,4 +1,4 @@
-[![Header](https://github.com/ArtemNovosel/ArtemNovosel/blob/master/assets/abstrakcija(13)-1228x662.png)](https://github.com/ArtemNovosel)
+[![Header](https://github.com/ArtemNovosel/ArtemNovosel/blob/master/assets/bug.jpg)](https://github.com/ArtemNovosel)
 
 ### 👋 Привет! Меня зовут Артем. / Hello! I`m Artem.
 
