@@ -24,15 +24,16 @@
 </a>
 
 
+### Резюме
 
+<a href="https://www.charlesproxy.com/">
+<img src="https://abload.de/img/charleshojaw.png" alt="Charles" width="50" height="50" />
+</a>
 
-### Связаться со мной можно в 
+### Связаться со мной
 
 
 [![Telegram](https://img.shields.io/badge/-Telegram-011d2f?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/arteimn)
-
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-011d2f?style=for-the-badge&logo=LinkedIn&logoColor=007BB6)](https://www.linkedin.com/in/artem-novoselov-6a9806262/)
-
 [![vkontakte](https://img.shields.io/badge/-vkontakte-011d2f?style=for-the-badge&logo=Vk&logoColor=4F7DB3)](https://vk.com/arteimn)
-
 [![mail](https://img.shields.io/badge/-mail.ru-011d2f?style=for-the-badge&logo=mail.ru&logoColor=ff9e00)](arteimn@mail.ru)
