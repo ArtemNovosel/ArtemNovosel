@@ -16,26 +16,23 @@
 <a href="https://swagger.io/">
 <img src="https://logos-download.com/wp-content/uploads/2021/01/Swagger_Logo.png" alt="Swagger" width="50" height="50" />
 </a>
+<a href="https://github.com/">
+<img src="https://amorev.ru/wp-content/uploads/2020/05/github_PNG40-1024x1024.png" alt="Python" width="50" height="50" />
+</a>
 <a href="https://www.charlesproxy.com/">
 <img src="https://abload.de/img/charleshojaw.png" alt="Charles" width="50" height="50" />
 </a>
-<a href="https://www.telerik.com/fiddler">
-<img src="https://www.tjvantoll.com/speaking/slides/building-emoting/salt-lake-city/emoting/cfff20d7dc02bb5389d4428f5aabcef0.png" alt="Fiddler" width="50" height="50" /> 
-</a>
 
 
 
 
-Follow me
+### Связаться со мной можно в 
 
-[//]: # (Latest YouTube video)
 
-[//]: # ()
-[//]: # ([//]: # &#40;Languages and Tools&#41;)
-[//]: # (![Python]&#40;https://img.shields.io/badge/-Python-011d2f?style=for-the-badge&logo=python&logoColor=ffee4a&#41;)
+[![Telegram](https://img.shields.io/badge/-Telegram-011d2f?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/arteimn)
 
-[//]: # (![Charlesproxy]&#40;https://img.shields.io/badge/-charlesproxy-011d2f?style=for-the-badge&logo=charlesproxy&logoColor=ffee4a&#41;)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-011d2f?style=for-the-badge&logo=LinkedIn&logoColor=007BB6)](https://www.linkedin.com/in/artem-novoselov-6a9806262/)
 
-[//]: # (![Python]&#40;https://img.shields.io/badge/-Python-011d2f?style=for-the-badge&logo=python&logoColor=ffee4a&#41;)
+[![vkontakte](https://img.shields.io/badge/-vkontakte-011d2f?style=for-the-badge&logo=Vk&logoColor=4F7DB3)](https://vk.com/arteimn)
 
-[//]: # (![Python]&#40;https://img.shields.io/badge/-Python-011d2f?style=for-the-badge&logo=python&logoColor=ffee4a&#41;)
+[![mail](https://img.shields.io/badge/-mail.ru-011d2f?style=for-the-badge&logo=mail.ru&logoColor=ff9e00)](arteimn@mail.ru)
