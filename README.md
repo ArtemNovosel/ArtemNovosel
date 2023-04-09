@@ -28,7 +28,7 @@
 
 ### Мое резюме
 
-<a href="https://drive.google.com/file/d/1Wf6yF_CjdCsjNXLE7vseX4-AeBFVDBLc/view?usp=sharing">
+<a href="https://drive.google.com/file/d/1OaUpG43yBKi1sWp9gS3zsyThTnXjfIW1/view?usp=sharing">
 <img src="https://github.com/ArtemNovosel/ArtemNovosel/blob/master/logo/unnamed.png" alt="Charles" width="100" height="100" />
 </a>
 
