@@ -6,34 +6,34 @@
 
 ### Инструменты и технологии которые я использую / I use
 
-<a href="https://www.python.org/">
+<a href="https://www.python.org/" target="_blank">
 <img src="https://github.com/ArtemNovosel/ArtemNovosel/blob/master/logo/python.png" alt="Python" width="50" height="50" />
 </a>
-<a href="https://www.postman.com/">
+<a href="https://www.postman.com/" target="_blank">
 <img src="https://github.com/ArtemNovosel/ArtemNovosel/blob/master/logo/postman_full-life-cycle-api-management_1633960356020.png" alt="Postman" width="50" height="50" />
 </a>
-<a href="https://selenium-python.readthedocs.io/api.html">
+<a href="https://selenium-python.readthedocs.io/api.html" target="_blank">
 <img src="https://github.com/ArtemNovosel/ArtemNovosel/blob/master/logo/selenium.png" width="50" height="50" />
 </a>
-<a href="https://www.atlassian.com/software/jira">
+<a href="https://www.atlassian.com/software/jira" target="_blank">
 <img src="https://github.com/ArtemNovosel/ArtemNovosel/blob/master/logo/jira.png" alt="Jira" width="50" height="50" />
 </a>
-<a href="https://swagger.io/">
+<a href="https://swagger.io/" target="_blank">
 <img src="https://github.com/ArtemNovosel/ArtemNovosel/blob/master/logo/swagger-icon.png" alt="Swagger" width="50" height="50" />
 </a>
-<a href="https://github.com/">
+<a href="https://github.com/" target="_blank">
 <img src="https://github.com/ArtemNovosel/ArtemNovosel/blob/master/logo/GitHub-logo.png" alt="Python" width="50" height="50" />
 </a>
-<a href="https://developer.android.com/studio">
+<a href="https://developer.android.com/studio" target="_blank">
 <img src="https://github.com/ArtemNovosel/ArtemNovosel/blob/master/logo/AndroidStudio.jpg" width="50" height="50" />
 </a>
-<a href="https://www.charlesproxy.com/">
+<a href="https://www.charlesproxy.com/" target="_blank">
 <img src="https://github.com/ArtemNovosel/ArtemNovosel/blob/master/logo/charles.png" width="50" height="50" />
 </a>
-<a href="https://www.figma.com/">
-<img src="https://github.com/ArtemNovosel/ArtemNovosel/blob/master/logo/figma.jpg" width="50" height="50" />
+<a href="https://www.figma.com/" target="_blank">
+<img src="https://github.com/ArtemNovosel/ArtemNovosel/blob/master/logo/figma.png" width="50" height="50" />
 </a>
-<a href="https://miro.com">
+<a href="https://miro.com" target="_blank">
 <img src="https://github.com/ArtemNovosel/ArtemNovosel/blob/master/logo/miro.png" width="50" height="50" />
 </a>
 
@@ -44,7 +44,7 @@
 
 ### Мое резюме / CV
 
-<a href="https://drive.google.com/file/d/1OaUpG43yBKi1sWp9gS3zsyThTnXjfIW1/view?usp=sharing">
+<a href="https://drive.google.com/file/d/1OaUpG43yBKi1sWp9gS3zsyThTnXjfIW1/view?usp=sharing" target="_blank">
 <img src="https://github.com/ArtemNovosel/ArtemNovosel/blob/master/logo/unnamed.png" alt="Charles" width="100" height="100" />
 </a>
 
