@@ -14,13 +14,19 @@
 <img src="https://github.com/ArtemNovosel/ArtemNovosel/blob/master/logo/python.png" alt="Python" width="50" height="50" />
 </a>
 <a href="https://selenium-python.readthedocs.io/api.html" >
-<img src="https://github.com/ArtemNovosel/ArtemNovosel/blob/master/logo/selenium.png" width="50" height="50" />
+<img src="https://github.com/ArtemNovosel/ArtemNovosel/blob/master/logo/selenium.png" alt="selenium" width="50" height="50" />
 </a>
 <a href="https://playwright.dev/" >
-<img src="https://github.com/ArtemNovosel/ArtemNovosel/blob/master/logo/playwright.png" width="50" height="50" />
+<img src="https://github.com/ArtemNovosel/ArtemNovosel/blob/master/logo/playwright.png" alt="playwright" width="50" height="50" />
 </a>
 <a href="https://git-scm.com/">
-<img src="https://github.com/ArtemNovosel/ArtemNovosel/blob/master/logo/git.png" alt="Jira" width="50" height="50" />
+<img src="https://github.com/ArtemNovosel/ArtemNovosel/blob/master/logo/git.png" alt="git" width="50" height="50" />
+</a>
+<a href="https://testit.software/">
+<img src="https://github.com/ArtemNovosel/ArtemNovosel/blob/master/logo/testit.png" alt="testit" width="50" height="50" />
+</a>
+<a href="https://www.testrail.com/">
+<img src="https://github.com/ArtemNovosel/ArtemNovosel/blob/master/logo/testrail.png" alt="testrail" width="50" height="50" />
 </a>
 <a href="https://www.atlassian.com/software/jira">
 <img src="https://github.com/ArtemNovosel/ArtemNovosel/blob/master/logo/jira.png" alt="Jira" width="50" height="50" />
@@ -29,16 +35,16 @@
 <img src="https://github.com/ArtemNovosel/ArtemNovosel/blob/master/logo/swagger-icon.png" alt="Swagger" width="50" height="50" />
 </a>
 <a href="https://developer.android.com/studio" >
-<img src="https://github.com/ArtemNovosel/ArtemNovosel/blob/master/logo/AndroidStudio.jpg" width="50" height="50" />
+<img src="https://github.com/ArtemNovosel/ArtemNovosel/blob/master/logo/AndroidStudio.jpg" alt="AndroidStudio" width="50" height="50" />
 </a>
 <a href="https://www.charlesproxy.com/">
-<img src="https://github.com/ArtemNovosel/ArtemNovosel/blob/master/logo/charles.png" width="50" height="50" />
+<img src="https://github.com/ArtemNovosel/ArtemNovosel/blob/master/logo/charles.png" alt="charles" width="50" height="50" />
 </a>
 <a href="https://www.figma.com/" >
-<img src="https://github.com/ArtemNovosel/ArtemNovosel/blob/master/logo/figma.png" width="50" height="50" />
+<img src="https://github.com/ArtemNovosel/ArtemNovosel/blob/master/logo/figma.png" alt="figma" width="50" height="50" />
 </a>
 <a href="https://miro.com">
-<img src="https://github.com/ArtemNovosel/ArtemNovosel/blob/master/logo/miro.png" width="50" height="50" />
+<img src="https://github.com/ArtemNovosel/ArtemNovosel/blob/master/logo/miro.png" alt="miro" width="50" height="50" />
 </a>
 
 [![browserling](https://img.shields.io/badge/-browserling-011d2f?style=for-the-badge)](https://www.browserling.com/)
